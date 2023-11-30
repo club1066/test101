@@ -2,14 +2,14 @@
   "users": [
     {
       "email": "admin01@mail.com",
-      "password": "$2a$10$WSzMaRrBXxc3WYp7HsN0r.ibRKvUdYOhdctE/qaRZCfzxn/swKC2u",
+      "password": "$2a$10$dGUltRMrGVyEDP1XquQrBur5Ehbp8bucpP.bf8FWdSQ/lwjxBvlnK",
       "nickName": "Ivy",
       "role": "admin",
       "id": 1
     },
     {
       "email": "admin02@mail.com",
-      "password": "$2a$10$Off1meDHfw.92hIlsmCH0uA42vcfjGiL5oRnoq9a1613gLJeH.o1C",
+      "password": "$2a$10$ZFrJegU1CUTOXi1yqvybaeAwHc1d0Gg9rQnVJi4LA1j5U1axxx77.",
       "nickName": "rius",
       "role": "admin",
       "id": 2
@@ -23,14 +23,14 @@
     },
     {
       "email": "admin04@mail.com",
-      "password": "$2a$10$Zw3GQUbquTUhdI.2C0vk2uEIDUex2Eb32cztEib/7d5R7/zXU.hKW",
+      "password": "$2a$10$/x/RHxN6xRaX2QtY6DlEjOGJPUOppQC31xfMjogVzkawh0uzJ6prG",
       "nickName": "smalljie",
       "role": "admin",
       "id": 4
     },
     {
       "email": "user05@mail.com",
-      "password": "$2a$10$71.LJUTfxwRAQ1/L1O4NXuMsK2dzsAbTQ940QG4JKtc8o0c7ANxBC",
+      "password": "$2a$10$hiPHx7DFxHFfVhxMWB6AUOip/7jt5pnNiBJln.pcFnK7ExHpvcrXG",
       "lastName": "Smith",
       "firstName": "Tom",
       "nickName": "Tom",
@@ -40,7 +40,7 @@
     },
     {
       "email": "user06@mail.com",
-      "password": "$2a$10$5lMSslTCaOlzqeT4VIwWS.qqVBLGTQeaLF8xT1iqaiAfj21Q4PHHu",
+      "password": "$2a$10$iGeZhCbo906CP6oWSrLYb.tDDerZB72p8RHysj8FBe6uoxX/x5oF6",
       "lastName": "Taylor",
       "firstName": "Jack",
       "nickName": "Jack",
@@ -50,7 +50,7 @@
     },
     {
       "email": "user07@mail.com",
-      "password": "$2a$10$UAmalpCL8q4Gku4L.O9F1Ohy7yFvtWkPJ6FTxRVCbDfdkl7C.Pgqq",
+      "password": "$2a$10$8kFvQAoGd8sBBXPK7uwWJ.RKUJBwp9Ru9N218PPKmVTAZ6dt4K4Eu",
       "lastName": "Brown",
       "firstName": "Saul",
       "nickName": "Saul",
@@ -60,7 +60,7 @@
     },
     {
       "email": "user08@mail.com",
-      "password": "$2a$10$MC62GPPmGbMIy.UE.Y1dxOEi5uZ7wsnHuSiOjc/.KwWEo6rE7BfOC",
+      "password": "$2a$10$xsCbMnOIcSozEMUyuIYSuuEf3mZlqexjMEbQv.vluh78lVYP/Je6S",
       "lastName": "Miler",
       "firstName": "Anna",
       "nickName": "Anna",
@@ -70,7 +70,7 @@
     },
     {
       "email": "user09@mail.com",
-      "password": "$2a$10$ISSZRjGlupcjqpvbrU2L4OnayNOhlqf26w8c3fsyGT6JnRRrbywq6",
+      "password": "$2a$10$s/N.Cgun1FfF4B7rYERb1eVh4tGiuoWIWwukFawFvMXF3HOTOGi8i",
       "lastName": "Gibbs",
       "firstName": "Jean",
       "nickName": "Jean",
@@ -80,7 +80,7 @@
     },
     {
       "email": "user10@mail.com",
-      "password": "$2a$10$fQFjryS3jh0I2oTGZEd.E.pWqQs5u6VFAmRftMyJIIhrkI/h0FZR.",
+      "password": "$2a$10$Y7WvJ8y.NXypcL1/VwZJS.eQvHW6MfF0cJSDL5DG8MM7ACivhqii.",
       "lastName": "Hogan",
       "firstName": "Freya",
       "nickName": "Freya",
@@ -96,6 +96,72 @@
       "title": "科學與道德的交織",
       "content": "片中賈羅·奧本海默的角色由傑克·吉倫哈爾精湛詮釋，他不僅展現了奧本海默作為核物理學家的才華，更將觀眾帶入他內心的道德掙扎。奧本海默在創造毀滅性武器的同時，也面臨道德的困惑和人性的挑戰，這種內心掙扎讓影片更具深度和情感。",
       "userId": 5,
+      "id": 1
+    },
+    {
+      "movieId": 1,
+      "spoiler": "false",
+      "title": "科學與道德的交織",
+      "content": "片中賈羅·奧本海默的角色由傑克·吉倫哈爾精湛詮釋，他不僅展現了奧本海默作為核物理學家的才華，更將觀眾帶入他內心的道德掙扎。奧本海默在創造毀滅性武器的同時，也面臨道德的困惑和人性的挑戰，這種內心掙扎讓影片更具深度和情感。",
+      "userId": 6,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "movieId": 1,
+      "postId": 1,
+      "spoiler": "false",
+      "comment": "中肯的評論！",
+      "userId": 6,
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Tom",
+      "email": "user05@mail.com",
+      "phoneNumber": "0912345678",
+      "EventTime": "01/01/2023",
+      "issue": "意見回饋",
+      "issueContent": "希望電影介紹能更詳細",
+      "userId": 5,
+      "id": 1
+    }
+  ],
+  "reportPosts": [
+    {
+      "postId": 1,
+      "reportReason": "惡意劇透",
+      "userId": 7,
+      "id": 1
+    }
+  ],
+  "reportComments": [
+    {
+      "commentId": 1,
+      "reportReason": "散布明顯無意義之內容",
+      "userId": 7,
+      "id": 1
+    }
+  ],
+  "appealposts": [
+    {
+      "email": "user05@mail.com",
+      "beReportReason": "惡意劇透",
+      "reportPostId": 1,
+      "appealContent": "我認為這則影評並無劇透",
+      "userId": 5,
+      "id": 1
+    }
+  ],
+  "appealComments": [
+    {
+      "email": "user06@mail.com",
+      "beReportReason": "散布明顯無意義之內容",
+      "reportCommentId": 1,
+      "appealContent": "我認為這則留言並無問題",
+      "userId": 6,
       "id": 1
     }
   ]
