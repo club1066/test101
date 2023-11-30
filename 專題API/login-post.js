@@ -15,7 +15,7 @@ function signUp(){
     console.log(response.data)
   })
   .catch(function(error){
-    console.log(erroe.response);
+    console.log(error.response);
   })
 }
 function login(){
@@ -28,7 +28,7 @@ function login(){
     id=response.data.user.id;
   })
   .catch(function(error){
-    console.log(erroe.response);
+    console.log(error.response);
   })
 }
 // 不用另外代userId的寫法：http://localhost:3000/600/users/${id}/posts
@@ -80,6 +80,6 @@ function upDatePassword(){
     console.log(response.data)
   })
   .catch(function(error){
-    console.log(erroe.response);
+    console.log(error.response);
   })
 }
