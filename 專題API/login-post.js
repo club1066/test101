@@ -73,8 +73,7 @@ function addPost(){
   })
 }
 // 刪除影評
-let delPostId="";
-delPostId=2;
+let delPostId=2;
 function delPost(){
   axios.delete("http://localhost:3000/posts/${delPostId}",{
     // "delPostId":2
