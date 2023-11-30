@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "admin01@mail.com",
+      "password": "$2a$10$WSzMaRrBXxc3WYp7HsN0r.ibRKvUdYOhdctE/qaRZCfzxn/swKC2u",
+      "nickName": "Ivy",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "admin02@mail.com",
+      "password": "$2a$10$Off1meDHfw.92hIlsmCH0uA42vcfjGiL5oRnoq9a1613gLJeH.o1C",
+      "nickName": "rius",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "email": "admin03@mail.com",
+      "password": "$2a$10$d7RefdgJmFw3oWiMKWV/vegh0Yz5YppS6LE3QioaV3w2QJCYl5a7a",
+      "nickName": "Noah",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "email": "admin04@mail.com",
+      "password": "$2a$10$Zw3GQUbquTUhdI.2C0vk2uEIDUex2Eb32cztEib/7d5R7/zXU.hKW",
+      "nickName": "smalljie",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "email": "user05@mail.com",
+      "password": "$2a$10$71.LJUTfxwRAQ1/L1O4NXuMsK2dzsAbTQ940QG4JKtc8o0c7ANxBC",
+      "lastName": "Smith",
+      "firstName": "Tom",
+      "nickName": "Tom",
+      "gender": "male",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "user06@mail.com",
+      "password": "$2a$10$5lMSslTCaOlzqeT4VIwWS.qqVBLGTQeaLF8xT1iqaiAfj21Q4PHHu",
+      "lastName": "Taylor",
+      "firstName": "Jack",
+      "nickName": "Jack",
+      "gender": "male",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "user07@mail.com",
+      "password": "$2a$10$UAmalpCL8q4Gku4L.O9F1Ohy7yFvtWkPJ6FTxRVCbDfdkl7C.Pgqq",
+      "lastName": "Brown",
+      "firstName": "Saul",
+      "nickName": "Saul",
+      "gender": "male",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "user08@mail.com",
+      "password": "$2a$10$MC62GPPmGbMIy.UE.Y1dxOEi5uZ7wsnHuSiOjc/.KwWEo6rE7BfOC",
+      "lastName": "Miler",
+      "firstName": "Anna",
+      "nickName": "Anna",
+      "gender": "female",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "user09@mail.com",
+      "password": "$2a$10$ISSZRjGlupcjqpvbrU2L4OnayNOhlqf26w8c3fsyGT6JnRRrbywq6",
+      "lastName": "Gibbs",
+      "firstName": "Jean",
+      "nickName": "Jean",
+      "gender": "female",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "email": "user10@mail.com",
+      "password": "$2a$10$fQFjryS3jh0I2oTGZEd.E.pWqQs5u6VFAmRftMyJIIhrkI/h0FZR.",
+      "lastName": "Hogan",
+      "firstName": "Freya",
+      "nickName": "Freya",
+      "gender": "female",
+      "role": "user",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "movieId": 1,
+      "spoiler": "false",
+      "title": "科學與道德的交織",
+      "content": "片中賈羅·奧本海默的角色由傑克·吉倫哈爾精湛詮釋，他不僅展現了奧本海默作為核物理學家的才華，更將觀眾帶入他內心的道德掙扎。奧本海默在創造毀滅性武器的同時，也面臨道德的困惑和人性的挑戰，這種內心掙扎讓影片更具深度和情感。",
+      "userId": 5,
+      "id": 1
+    }
+  ]
+}
